@@ -10,3 +10,9 @@
   * Power of 2 (Leetcode 231)
   * Power of 3 (Leetcode 326)
   * Power of 4 (Leetcode 242)
+
+* # Day 3
+  * Counting Bits (Leetcode 338)
+  * Find the Difference (Leetcode 389)
+  * Perfect Number (Leetcode 507)
+  
