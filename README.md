@@ -1,4 +1,5 @@
-# Dsa-100-Days-of-Code
+# Dsa-100-Days-of-Code 
+```# Code Count- 14```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -16,3 +17,8 @@
   * Find the Difference (Leetcode 389)
   * Perfect Number (Leetcode 507)
   
+* # Day 4
+  * Add To Array Of Integer (Leetcode 989)
+  * Categorize Box According To Criteria (Leetcode 2525)
+  * Fizz Buzz (Leetcode 412)
+  * Is Subsequence (Leetcode 392)
