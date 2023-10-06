@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 14```
+```# Code Count- 18```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -22,3 +22,9 @@
   * Categorize Box According To Criteria (Leetcode 2525)
   * Fizz Buzz (Leetcode 412)
   * Is Subsequence (Leetcode 392)
+ 
+* # Day 5
+  * Robot Return To Origin (Leetcode 657)
+  * Find Smallest Letter Greater Than Target (Leetcode 744)
+  * Count Elements With Strictly Smaller And Greater Elements (Leetcode 2148)
+  * Furthest Point From Origin (Leetcode 2833)
