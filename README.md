@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 18```
+```# Code Count- 23```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -28,3 +28,18 @@
   * Find Smallest Letter Greater Than Target (Leetcode 744)
   * Count Elements With Strictly Smaller And Greater Elements (Leetcode 2148)
   * Furthest Point From Origin (Leetcode 2833)
+
+* # Day 6
+  * Divide Two Integers (Leetcode 29)
+  * Find First And Last Position Of Element In Sorted Array (Leetcode 34)
+  * Find The Index Of The First Occurrence (Leetcode 28)
+  * Integer Break (Leetcode 343)
+  * Multiply Strings (Leetcode 43)
+ 
+
+
+
+
+
+
+  
