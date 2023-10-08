@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 23```
+```# Code Count- 28```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -35,7 +35,22 @@
   * Find The Index Of The First Occurrence (Leetcode 28)
   * Integer Break (Leetcode 343)
   * Multiply Strings (Leetcode 43)
- 
+
+* # Day 7
+  * Valid Palindrome (Leetcode 125)
+  * Search In Rotated Sorted Array II (Leetcode 81)
+  * Remove Duplicates From Sorted List (Leetcode 83)
+  * Jewels And Stones (Leetcode 771)
+  * Find Minimum In Rotated Sorted Array (Leetcode 153)
+
+
+
+
+
+
+
+
+
 
 
 
