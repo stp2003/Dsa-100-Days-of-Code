@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 28```
+```# Code Count- 31```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -43,7 +43,10 @@
   * Jewels And Stones (Leetcode 771)
   * Find Minimum In Rotated Sorted Array (Leetcode 153)
 
-
+* # Day 8
+  * Happy Number (Leetcode 202)
+  * Peak Index In A Mountain Array (Leetcode 852)
+  * Ugly Number (Leetcode 263)
 
 
 
