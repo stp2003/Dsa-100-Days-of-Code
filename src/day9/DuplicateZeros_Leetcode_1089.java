@@ -23,4 +23,8 @@ public class DuplicateZeros_Leetcode_1089 {
             arr[i] = ans.get(i);
         }
     }
+
+    public static void main(String[] args) {
+
+    }
 }
