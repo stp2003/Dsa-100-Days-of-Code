@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 31```
+```# Code Count- 39```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -48,9 +48,17 @@
   * Peak Index In A Mountain Array (Leetcode 852)
   * Ugly Number (Leetcode 263)
 
+* # Day 9
+  * Count Of Matches In Tournament (Leetcode 1688)
+  * Duplicate Zeros (Leetcode 1089)
+  * Maximum 69 Number (Leetcode 1323)
+  * Sort Array By Parity (Leetcode 905)
 
-
-
+* # Day 10
+  * Climbing Stairs (Leetcode 70)
+  * Concatenation Of Array (Leetcode 1929)
+  * Nim Game (Leetcode 292)
+  * Remove All Occurrences Of A Substring (Leetcode 1910)
 
 
 
