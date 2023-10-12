@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 39```
+```# Code Count- 43```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -60,7 +60,11 @@
   * Nim Game (Leetcode 292)
   * Remove All Occurrences Of A Substring (Leetcode 1910)
 
-
+* # Day 11
+  * Final Value Of Variable After Performing Operations (Leetcode 2011)
+  * Percentage Of Letter In String (Leetcode 2278)
+  * Reverse Prefix Of Word (Leetcode 2000)
+  * Smallest Even Multiple (Leetcode 2413)
 
 
 
