@@ -66,7 +66,10 @@
   * Reverse Prefix Of Word (Leetcode 2000)
   * Smallest Even Multiple (Leetcode 2413)
 
-
+* # Day 12
+  * Assign Cookies (Leetcode 455)
+  * Convert The Temperature (Leetcode 2469)
+  * Number Of Common Factors (Leetcode 2427)
 
 
 
