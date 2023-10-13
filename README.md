@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 46```
+```# Code Count- 47```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -70,6 +70,7 @@
   * Assign Cookies (Leetcode 455)
   * Convert The Temperature (Leetcode 2469)
   * Number Of Common Factors (Leetcode 2427)
+  * Left and Right Sum Differences (Leetcode 2574)
 
 
 
