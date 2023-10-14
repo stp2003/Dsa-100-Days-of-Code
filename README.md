@@ -78,6 +78,12 @@
   * Reverse Vowels Of A String (Leetcode 345)
   * Sum Multiples (Leetcode 2652)
 
-
+* # Day 14
+  * Kids With The Greatest Number Of Candies (Leetcode 1431)
+  * Maximum Product Of Two Elements In An Array (Leetcode 1464)
+  * Running Sum Of 1d Array (Leetcode 1480)
 
   
+
+
+
