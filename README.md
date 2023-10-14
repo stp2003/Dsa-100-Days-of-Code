@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 47```
+```# Code Count- 51```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -72,7 +72,11 @@
   * Number Of Common Factors (Leetcode 2427)
   * Left and Right Sum Differences (Leetcode 2574)
 
-
+* # Day 13
+  * Count Negative Numbers In A Sorted Matrix (Leetcode 1351)
+  * Faulty Keyboard (Leetcode 2810)
+  * Reverse Vowels Of A String (Leetcode 345)
+  * Sum Multiples (Leetcode 2652)
 
 
 
