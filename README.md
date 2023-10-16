@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 54```
+```# Code Count- 57```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -83,7 +83,10 @@
   * Maximum Product Of Two Elements In An Array (Leetcode 1464)
   * Running Sum Of 1d Array (Leetcode 1480)
 
-  
+* # Day 15
+  * Average Salary Excluding Minimum And Maximum Salary (Leetcode 1491)
+  * The kth Factor Of N (Leetcode 1492)
+  * XOR Operation In An Array (Leetcode 1486)
 
 
 
