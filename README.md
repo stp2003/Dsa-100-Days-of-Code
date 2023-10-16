@@ -88,5 +88,12 @@
   * The kth Factor Of N (Leetcode 1492)
   * XOR Operation In An Array (Leetcode 1486)
 
+* # Day 16
+  * Number Of Good Pairs (Leetcode 1512)
+  * Pascals Triangle II (Leetcode 119)
+  * Shuffle String (Leetcode 1528) 
+
+
+
 
 
