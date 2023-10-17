@@ -93,7 +93,10 @@
   * Pascals Triangle II (Leetcode 119)
   * Shuffle String (Leetcode 1528) 
 
-
+* # Day 17
+  * Convert 1D Array Into 2D Array (Leetcode 2022)
+  * Richest Customer Wealth (Leetcode 1672)
+  * Three Consecutive Odds (Leetcode 1550)
 
 
 
