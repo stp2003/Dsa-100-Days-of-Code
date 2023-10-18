@@ -98,5 +98,8 @@
   * Richest Customer Wealth (Leetcode 1672)
   * Three Consecutive Odds (Leetcode 1550)
 
-
+* # Day 18
+  * Maximum Product Subarray (Leetcode 152)
+  * Product Of Array Except Self (Leetcode 238)
+  * Subarray Product Less Than K (Leetcode 713)
 
