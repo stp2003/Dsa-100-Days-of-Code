@@ -103,3 +103,9 @@
   * Product Of Array Except Self (Leetcode 238)
   * Subarray Product Less Than K (Leetcode 713)
 
+* # Day 19
+  * Find Pivot Index (Leetcode 724)
+  * Min Cost Climbing Stairs (Leetcode 746)
+  * Subarray Sum Equals K (Leetcode 560)
+
+
