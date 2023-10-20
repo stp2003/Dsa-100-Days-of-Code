@@ -108,4 +108,11 @@
   * Min Cost Climbing Stairs (Leetcode 746)
   * Subarray Sum Equals K (Leetcode 560)
 
+* # Day 20
+  * Convert A Number To Hexadecimal (Leetcode 405)
+  * Count Subarrays With Score Less Than K (Leetcode 2302)
+  * DI String Match (Leetcode 942)
+
+
+
 
