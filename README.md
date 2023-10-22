@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 74```
+```# Code Count- 75```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -116,5 +116,6 @@
 * # Day 21
   * Distribute Candies (Leetcode 575)
   * Island Perimeter (Leetcode 463)
+  * Gas Station (Leetcode 134)
 
 
