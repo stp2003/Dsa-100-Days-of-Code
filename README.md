@@ -125,4 +125,5 @@
 
 * # Day 23
   * Check If A Straight Line (Leetcode 1232)
+  * Day Of The Week (Leetcode 1185)
 
