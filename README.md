@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 75```
+```# Code Count- 78```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -117,5 +117,11 @@
   * Distribute Candies (Leetcode 575)
   * Island Perimeter (Leetcode 463)
   * Gas Station (Leetcode 134)
+
+* # Day 22
+  * Integer To Roman (Leetcode 12)
+  * Sign Of The Product Of An Array (Leetcode 1822)
+  * Valid Number (Leetcode 65)
+
 
 
