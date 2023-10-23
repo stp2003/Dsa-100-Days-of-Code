@@ -124,4 +124,5 @@
   * Valid Number (Leetcode 65)
 
 * # Day 23
+  * Check If A Straight Line (Leetcode 1232)
 
