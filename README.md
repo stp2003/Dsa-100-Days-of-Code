@@ -129,3 +129,5 @@
 
 * # Day 24
   * Find The Middle Index In Array (Leetcode 1991)
+  * Generate String With Characters That Have Odd Counts (Leetcode 1374)
+  * Sort Vowels In A String (Leetcode 2785)
