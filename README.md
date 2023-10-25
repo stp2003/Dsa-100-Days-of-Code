@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 80```
+```# Code Count- 83```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -127,3 +127,7 @@
   * Check If A Straight Line (Leetcode 1232)
   * Day Of The Week (Leetcode 1185)
 
+* # Day 24
+  * Find The Middle Index In Array (Leetcode 1991)
+  * Generate String With Characters That Have Odd Counts (Leetcode 1374)
+  * Sort Vowels In A String (Leetcode 2785)
