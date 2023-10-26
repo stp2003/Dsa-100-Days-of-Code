@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 83```
+```# Code Count- 86```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -131,3 +131,9 @@
   * Find The Middle Index In Array (Leetcode 1991)
   * Generate String With Characters That Have Odd Counts (Leetcode 1374)
   * Sort Vowels In A String (Leetcode 2785)
+
+* # Day 25
+  * Count The Digits That Divide A Number (Leetcode 2520)
+  * Minimum Operations To Reduce X To Zero (Leetcode 1658)
+  * Partition Array Into Three Parts With Equal Sum (Leetcode 1013)
+
