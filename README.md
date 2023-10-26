@@ -137,3 +137,9 @@
   * Minimum Operations To Reduce X To Zero (Leetcode 1658)
   * Partition Array Into Three Parts With Equal Sum (Leetcode 1013)
 
+* # Day 26
+  * Day Of The Year (Leetcode 1154)
+  * Self Dividing Numbers (Leetcode 728)
+
+
+
