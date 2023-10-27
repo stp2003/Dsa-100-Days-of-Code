@@ -143,5 +143,6 @@
 
 * # Day 27
   * Maximize The Topmost Element After K Moves (Leetcode 2202)
+  * Minimum Sum Of Four Digit Number After Splitting Digits (Leetcode 2160)
 
 
