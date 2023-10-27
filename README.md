@@ -141,5 +141,7 @@
   * Day Of The Year (Leetcode 1154)
   * Self Dividing Numbers (Leetcode 728)
 
+* # Day 27
+  * Maximize The Topmost Element After K Moves (Leetcode 2202)
 
 
