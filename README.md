@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 88```
+```# Code Count- 90```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -141,5 +141,8 @@
   * Day Of The Year (Leetcode 1154)
   * Self Dividing Numbers (Leetcode 728)
 
+* # Day 27
+  * Maximize The Topmost Element After K Moves (Leetcode 2202)
+  * Minimum Sum Of Four Digit Number After Splitting Digits (Leetcode 2160)
 
 
