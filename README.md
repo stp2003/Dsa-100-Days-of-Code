@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 90```
+```# Code Count- 93```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -144,5 +144,14 @@
 * # Day 27
   * Maximize The Topmost Element After K Moves (Leetcode 2202)
   * Minimum Sum Of Four Digit Number After Splitting Digits (Leetcode 2160)
+
+* # Day 28
+  * Count Integers With Even Digit Sum (Leetcode 2180)
+  * Difference Between Element Sum And Digit Sum Of Array (Leetcode 2535)
+  * Separate The Digits In An Array (Leetcode 2553)
+
+
+
+
 
 
