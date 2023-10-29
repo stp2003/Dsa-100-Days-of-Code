@@ -150,7 +150,10 @@
   * Difference Between Element Sum And Digit Sum Of Array (Leetcode 2535)
   * Separate The Digits In An Array (Leetcode 2553)
 
-
+* # Day 29
+  * Alternating Digit Sum (Leetcode 2544)
+  * Find Three Consecutive Integers That Sum To Given Number (Leetcode 2177)
+  * Number Of Ways To Buy Pens And Pencils (Leetcode 2240)
 
 
 
