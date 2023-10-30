@@ -155,6 +155,7 @@
   * Find Three Consecutive Integers That Sum To Given Number (Leetcode 2177)
   * Number Of Ways To Buy Pens And Pencils (Leetcode 2240)
 
-
+* # Day 30
+  * Length Of The Longest Alphabetical Continuous Substring (Leetcode 2414)
 
 
