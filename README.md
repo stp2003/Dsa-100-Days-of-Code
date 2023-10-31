@@ -162,6 +162,7 @@
 * # Day 31
   * Find The Maximum Achievable Number (Leetcode 2769)
   * Minimum Recolors To Get K Consecutive Black Blocks (Leetcode 2379)
+  * Number Of Ways To Split Array (Leetcode 2270)
     
     
 
