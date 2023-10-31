@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 96```
+```# Code Count- 98```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -155,6 +155,8 @@
   * Find Three Consecutive Integers That Sum To Given Number (Leetcode 2177)
   * Number Of Ways To Buy Pens And Pencils (Leetcode 2240)
 
-
+* # Day 30
+  * Length Of The Longest Alphabetical Continuous Substring (Leetcode 2414)
+  * Maximum Number Of Vowels In A Substring Of Given Length (Leetcode 1456)
 
 
