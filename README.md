@@ -164,5 +164,6 @@
   * Minimum Recolors To Get K Consecutive Black Blocks (Leetcode 2379)
   * Number Of Ways To Split Array (Leetcode 2270)
     
-    
+* # Day 32
+  * Decode XORed Array (Leetcode 1720)    
 
