@@ -171,3 +171,4 @@
 
 * # Day 33
   * Apply Operations To An Array (Leetcode 2460)
+  * Kth Missing Positive Number (Leetcode 1539)
