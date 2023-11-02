@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 101```
+```# Code Count- 104```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -164,5 +164,9 @@
   * Minimum Recolors To Get K Consecutive Black Blocks (Leetcode 2379)
   * Number Of Ways To Split Array (Leetcode 2270)
     
+* # Day 32
+  * Decode XORed Array (Leetcode 1720)
+  * Find The Original Array Of Prefix Xor (Leetcode 2433)
+  * Insert Delete Get Random (Leetcode 380)
     
 
