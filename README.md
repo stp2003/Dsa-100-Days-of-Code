@@ -175,6 +175,7 @@
   * Remove Linked List Elements (Leetcode 203)
 
 * # Day 34
+  * Check If All Characters Have Equal Number Of Occurrences (Leetcode 1941)
 
 
 
