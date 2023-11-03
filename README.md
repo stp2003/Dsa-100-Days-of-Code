@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 104```
+```# Code Count- 107```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -168,5 +168,14 @@
   * Decode XORed Array (Leetcode 1720)
   * Find The Original Array Of Prefix Xor (Leetcode 2433)
   * Insert Delete Get Random (Leetcode 380)
-    
+
+* # Day 33
+  * Apply Operations To An Array (Leetcode 2460)
+  * Kth Missing Positive Number (Leetcode 1539)
+  * Remove Linked List Elements (Leetcode 203)
+
+
+
+
+
 
