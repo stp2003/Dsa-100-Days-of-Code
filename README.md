@@ -177,6 +177,7 @@
 * # Day 34
   * Check If All Characters Have Equal Number Of Occurrences (Leetcode 1941)
   * Check If Number Is Sum Of Powers Of Three (Leetcode 1780)
+  * Count Pairs Whose Sum Is Less Than Target (Leetcode 2824)
 
 
 
