@@ -181,5 +181,6 @@
 
 * # Day 35
   * Count Square Sum Triples (Leetcode 1925)
+  * Number Of Unequal Triplets In Array (Leetcode 2475)
 
 
