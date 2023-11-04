@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 107```
+```# Code Count- 110```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -174,7 +174,10 @@
   * Kth Missing Positive Number (Leetcode 1539)
   * Remove Linked List Elements (Leetcode 203)
 
-
+* # Day 34
+  * Check If All Characters Have Equal Number Of Occurrences (Leetcode 1941)
+  * Check If Number Is Sum Of Powers Of Three (Leetcode 1780)
+  * Count Pairs Whose Sum Is Less Than Target (Leetcode 2824)
 
 
 
