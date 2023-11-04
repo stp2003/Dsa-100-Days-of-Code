@@ -180,5 +180,6 @@
   * Count Pairs Whose Sum Is Less Than Target (Leetcode 2824)
 
 * # Day 35
+  * Count Square Sum Triples (Leetcode 1925)
 
 
