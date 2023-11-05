@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 110```
+```# Code Count- 112```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -179,6 +179,8 @@
   * Check If Number Is Sum Of Powers Of Three (Leetcode 1780)
   * Count Pairs Whose Sum Is Less Than Target (Leetcode 2824)
 
-
+* # Day 35
+  * Count Square Sum Triples (Leetcode 1925)
+  * Number Of Unequal Triplets In Array (Leetcode 2475)
 
 
