@@ -184,3 +184,17 @@
   * Number Of Unequal Triplets In Array (Leetcode 2475)
 
 * # Day 36
+  * Sum Of Digits In Base K (Leetcode 1837)
+
+
+
+
+
+
+
+
+
+
+
+
+
