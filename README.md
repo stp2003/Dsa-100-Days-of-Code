@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 112```
+```# Code Count- 113```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -182,5 +182,19 @@
 * # Day 35
   * Count Square Sum Triples (Leetcode 1925)
   * Number Of Unequal Triplets In Array (Leetcode 2475)
+
+* # Day 36
+  * Sum Of Digits In Base K (Leetcode 1837)
+
+
+
+
+
+
+
+
+
+
+
 
 
