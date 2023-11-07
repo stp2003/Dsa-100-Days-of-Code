@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 113```
+```# Code Count- 114```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -186,7 +186,8 @@
 * # Day 36
   * Sum Of Digits In Base K (Leetcode 1837)
 
-
+* # Day 37
+  * Third Maximum Number (Leetcode 414)
 
 
 
