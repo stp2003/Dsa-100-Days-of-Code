@@ -190,6 +190,7 @@
   * Third Maximum Number (Leetcode 414)
 
 * # Day 38
+  * NumberOfArithmeticTriplets_Leetcode_2367
 
 
 
