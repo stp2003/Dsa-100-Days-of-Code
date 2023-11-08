@@ -193,6 +193,7 @@
   * Number Of Arithmetic Triplets (Leetcode 2367)
 
 * # Day 39
+  * Maximum Value Of An Ordered Triplet I (Leetcode 2873)
 
 
 
