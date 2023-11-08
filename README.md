@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 114```
+```# Code Count- 115```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -189,7 +189,8 @@
 * # Day 37
   * Third Maximum Number (Leetcode 414)
 
-
+* # Day 38
+  * Number Of Arithmetic Triplets (Leetcode 2367)
 
 
 
