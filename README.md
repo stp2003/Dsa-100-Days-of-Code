@@ -195,7 +195,7 @@
 * # Day 39
   * Maximum Value Of An Ordered Triplet I (Leetcode 2873)
 
-
+* # Day 40
 
 
 
