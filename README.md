@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 116```
+```# Code Count- 117```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -195,7 +195,8 @@
 * # Day 39
   * Maximum Value Of An Ordered Triplet I (Leetcode 2873)
 
-
+* # Day 40
+  * Largest 3 Same Digit Number In String (Leetcode 2264)
 
 
 
