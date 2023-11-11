@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 117```
+```# Code Count- 118```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -198,7 +198,8 @@
 * # Day 40
   * Largest 3 Same Digit Number In String (Leetcode 2264)
 
-
+* # Day 41
+  * Neither Minimum Nor Maximum (Leetcode 2733)
 
 
 
