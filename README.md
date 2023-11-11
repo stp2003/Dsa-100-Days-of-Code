@@ -201,5 +201,5 @@
 * # Day 41
   * Neither Minimum Nor Maximum (Leetcode 2733)
 
-
+* # Day 42
 
