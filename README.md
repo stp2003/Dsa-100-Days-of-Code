@@ -202,5 +202,5 @@
   * Neither Minimum Nor Maximum (Leetcode 2733)
 
 * # Day 42
-  * FindThePivotInteger_Leetcode_2485
+  * Find The Pivot Integer (Leetcode 2485)
 
