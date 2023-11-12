@@ -205,6 +205,7 @@
   * Find The Pivot Integer (Leetcode 2485)
 
 * # Day 43
+  * MinimumDifferenceBetweenHighestAndLowestOfKScores_Leetcode_1984
 
 
 
