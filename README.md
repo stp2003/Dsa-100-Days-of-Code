@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 118```
+```# Code Count- 119```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -201,5 +201,6 @@
 * # Day 41
   * Neither Minimum Nor Maximum (Leetcode 2733)
 
-
+* # Day 42
+  * Find The Pivot Integer (Leetcode 2485)
 
