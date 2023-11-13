@@ -208,7 +208,7 @@
   * Minimum Difference Between Highest And Lowest Of K Scores (Leetcode 1984)
 
 * # Day 44
-  * MinimumSumOfMountainTripletsI_Leetcode_2908
+  * Minimum Sum Of Mountain Triplets I (Leetcode 2908)
 
 
 
