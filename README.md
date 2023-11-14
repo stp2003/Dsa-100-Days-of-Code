@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 120```
+```# Code Count- 121```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -207,7 +207,8 @@
 * # Day 43
   * Minimum Difference Between Highest And Lowest Of K Scores (Leetcode 1984)
 
-
+* # Day 44
+  * Minimum Sum Of Mountain Triplets I (Leetcode 2908)
 
 
 
