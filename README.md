@@ -211,7 +211,7 @@
   * Minimum Sum Of Mountain Triplets I (Leetcode 2908)
 
 * # Day 45
-  * CountGoodTriplets_Leetcode_1534
+  * Count Good Triplets (Leetcode 1534)
   
 
 
