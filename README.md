@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 121```
+```# Code Count- 122```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -210,7 +210,9 @@
 * # Day 44
   * Minimum Sum Of Mountain Triplets I (Leetcode 2908)
 
-
+* # Day 45
+  * Count Good Triplets (Leetcode 1534)
+  
 
 
 
