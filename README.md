@@ -217,7 +217,7 @@
   * Contiguous Array (Leetcode 525)
 
 * # Day 47
-  * CountSpecialQuadruplets_Leetcode_1995
+  * Count Special Quadruplets (Leetcode 1995)
 
 
 
