@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 122```
+```# Code Count- 123```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -213,7 +213,8 @@
 * # Day 45
   * Count Good Triplets (Leetcode 1534)
   
-
+* # Day 46
+  * Contiguous Array (Leetcode 525)
 
 
 
