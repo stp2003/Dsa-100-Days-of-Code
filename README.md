@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 124```
+```# Code Count- 125```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -219,5 +219,6 @@
 * # Day 47
   * Count Special Quadruplets (Leetcode 1995)
 
-
+* # Day 48
+  * Longest Substring Without Repeating Characters (Leetcode 3)
 
