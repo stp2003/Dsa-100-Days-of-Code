@@ -221,5 +221,5 @@
 
 * # Day 48
   * Longest Substring Without Repeating Characters (Leetcode 3)
-  * SumOfNumbersWithUnitsDigitK_Leetcode_2310
+  * Sum Of Numbers With Units Digit K (Leetcode 2310)
 
