@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 123```
+```# Code Count- 124```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -216,8 +216,8 @@
 * # Day 46
   * Contiguous Array (Leetcode 525)
 
-
-
+* # Day 47
+  * Count Special Quadruplets (Leetcode 1995)
 
 
 
