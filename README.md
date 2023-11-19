@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 126```
+```# Code Count- 127```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -222,4 +222,9 @@
 * # Day 48
   * Longest Substring Without Repeating Characters (Leetcode 3)
   * Sum Of Numbers With Units Digit K (Leetcode 2310)
+
+* # Day 49
+  * Sum Of Number And Its Reverse (Leetcode 2443)
+
+
 
