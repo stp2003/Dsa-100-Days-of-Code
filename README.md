@@ -227,4 +227,5 @@
   * Sum Of Number And Its Reverse (Leetcode 2443)
 
 * # Day 50
+  * Base_7_Leetcode_504
 
