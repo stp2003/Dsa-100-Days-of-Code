@@ -230,3 +230,4 @@
   * Base 7 (Leetcode 504)
 
 * # Day 51
+  * SplitWithMinimumSum_Leetcode_2578
