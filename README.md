@@ -233,4 +233,5 @@
   * Split With Minimum Sum (Leetcode 2578)
 
 * # Day 52
+  * ThreeDivisors_Leetcode_1952
 
