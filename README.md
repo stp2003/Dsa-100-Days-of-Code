@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 128```
+```# Code Count- 129```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -229,3 +229,5 @@
 * # Day 50
   * Base 7 (Leetcode 504)
 
+* # Day 51
+  * Split With Minimum Sum (Leetcode 2578)
