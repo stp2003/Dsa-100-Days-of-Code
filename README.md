@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 130```
+```# Code Count- 131```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -235,3 +235,5 @@
 * # Day 52
   * Three Divisors (Leetcode 1952)
 
+* # Day 53
+  * Check If Two String Arrays Are Equivalent (Leetcode 1662)
