@@ -237,3 +237,6 @@
 
 * # Day 53
   * Check If Two String Arrays Are Equivalent (Leetcode 1662)
+  * DetermineIfStringHalvesAreAlike_Leetcode_1704
+
+
