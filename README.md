@@ -236,4 +236,4 @@
   * Three Divisors (Leetcode 1952)
 
 * # Day 53
-  * CheckIfTwoStringArraysAreEquivalent_Leetcode_1662
+  * Check If Two String Arrays Are Equivalent (Leetcode 1662)
