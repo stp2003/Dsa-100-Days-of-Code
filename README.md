@@ -236,3 +236,4 @@
   * Three Divisors (Leetcode 1952)
 
 * # Day 53
+  * CheckIfTwoStringArraysAreEquivalent_Leetcode_1662
