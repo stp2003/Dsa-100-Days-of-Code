@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 132```
+```# Code Count- 133```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -239,4 +239,5 @@
   * Check If Two String Arrays Are Equivalent (Leetcode 1662)
   * Determine If String Halves Are Alike (Leetcode 1704)
 
-
+* # Day 54
+  * Divide Array Into Equal Pairs (Leetcode 2206)
