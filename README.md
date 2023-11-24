@@ -244,4 +244,5 @@
   * Check If NAnd Its Double Exist (Leetcode 1346)
 
 * # Day 55
+  * Valid Sudoku (Leetcode 36)
 
