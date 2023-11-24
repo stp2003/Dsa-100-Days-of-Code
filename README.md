@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 133```
+```# Code Count- 134```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -241,3 +241,4 @@
 
 * # Day 54
   * Divide Array Into Equal Pairs (Leetcode 2206)
+  * Check If NAnd Its Double Exist (Leetcode 1346)
