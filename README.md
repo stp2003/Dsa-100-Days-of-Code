@@ -246,3 +246,4 @@
 * # Day 55
   * Valid Sudoku (Leetcode 36)
 
+* # Day 56
