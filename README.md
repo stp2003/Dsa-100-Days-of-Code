@@ -247,4 +247,4 @@
   * Valid Sudoku (Leetcode 36)
 
 * # Day 56
-  * LargestNumberAtLeastTwiceOfOthers_Leetcode_747
+  * Largest Number At Least Twice Of Others (Leetcode 747)
