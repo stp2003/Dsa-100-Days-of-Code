@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 136```
+```# Code Count- 137```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -248,3 +248,6 @@
 
 * # Day 56
   * Largest Number At Least Twice Of Others (Leetcode 747)
+
+* # Day 57
+  * Keep Multiplying Found Values By Two (Leetcode 2154)
