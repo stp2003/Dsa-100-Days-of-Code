@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 135```
+```# Code Count- 136```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -246,3 +246,5 @@
 * # Day 55
   * Valid Sudoku (Leetcode 36)
 
+* # Day 56
+  * Largest Number At Least Twice Of Others (Leetcode 747)
