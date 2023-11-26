@@ -251,4 +251,4 @@
 
 * # Day 57
   * Keep Multiplying Found Values By Two (Leetcode 2154)
-  * ArrayPartition_Leetcode_561
+  * Array Partition (Leetcode 561)
