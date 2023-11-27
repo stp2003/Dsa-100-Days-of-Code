@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 138```
+```# Code Count- 139```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -252,3 +252,8 @@
 * # Day 57
   * Keep Multiplying Found Values By Two (Leetcode 2154)
   * Array Partition (Leetcode 561)
+
+* # Day 58
+  * Largest Odd Number In String (Leetcode 1903)
+
+
