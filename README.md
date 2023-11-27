@@ -255,6 +255,6 @@
 
 * # Day 58
   * Largest Odd Number In String (Leetcode 1903)
-  * ValidTriangleNumber_Leetcode_611
+  * Valid Triangle Number (Leetcode 611)
 
 
