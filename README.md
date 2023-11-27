@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 137```
+```# Code Count- 138```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -251,3 +251,4 @@
 
 * # Day 57
   * Keep Multiplying Found Values By Two (Leetcode 2154)
+  * Array Partition (Leetcode 561)
