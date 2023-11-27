@@ -254,6 +254,6 @@
   * Array Partition (Leetcode 561)
 
 * # Day 58
-  * LargestOddNumberInString_Leetcode_1903
+  * Largest Odd Number In String (Leetcode 1903)
 
 
