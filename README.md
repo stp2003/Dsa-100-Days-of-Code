@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 139```
+```# Code Count- 140```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -255,5 +255,6 @@
 
 * # Day 58
   * Largest Odd Number In String (Leetcode 1903)
+  * Valid Triangle Number (Leetcode 611)
 
 
