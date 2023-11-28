@@ -259,4 +259,4 @@
 
 * # Day 59
   * Greatest Common Divisor Of Strings (Leetcode 1071)
-  * FindGreatestCommonDivisorOfArray_Leetcode_1979
+  * Find Greatest Common Divisor Of Array (Leetcode 1979)
