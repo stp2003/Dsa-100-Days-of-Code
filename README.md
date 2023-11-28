@@ -258,4 +258,4 @@
   * Valid Triangle Number (Leetcode 611)
 
 * # Day 59
-  * GreatestCommonDivisorOfStrings_Leetcode_1071
+  * Greatest Common Divisor Of Strings (Leetcode 1071)
