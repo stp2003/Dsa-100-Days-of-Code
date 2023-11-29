@@ -263,4 +263,4 @@
 
 * # Day 60
   * Sum Of Digits Of String After Convert (Leetcode 1945)
-  * SumOfTwoIntegers_Leetcode_371
+  * Sum Of Two Integers (Leetcode 371)
