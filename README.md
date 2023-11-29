@@ -262,3 +262,4 @@
   * Find Greatest Common Divisor Of Array (Leetcode 1979)
 
 * # Day 60
+  * SumOfDigitsOfStringAfterConvert_Leetcode_1945
