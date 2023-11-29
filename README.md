@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 142```
+```# Code Count- 143```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -260,3 +260,6 @@
 * # Day 59
   * Greatest Common Divisor Of Strings (Leetcode 1071)
   * Find Greatest Common Divisor Of Array (Leetcode 1979)
+
+* # Day 60
+  * Sum Of Digits Of String After Convert (Leetcode 1945)
