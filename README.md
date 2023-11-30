@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 144```
+```# Code Count- 145```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -264,3 +264,6 @@
 * # Day 60
   * Sum Of Digits Of String After Convert (Leetcode 1945)
   * Sum Of Two Integers (Leetcode 371)
+
+* # Day 61
+  * Binary Number With Alternating Bits (Leetcode 693)
