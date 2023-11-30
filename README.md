@@ -266,4 +266,4 @@
   * Sum Of Two Integers (Leetcode 371)
 
 * # Day 61
-  * BinaryNumberWithAlternatingBits_Leetcode_693
+  * Binary Number With Alternating Bits (Leetcode 693)
