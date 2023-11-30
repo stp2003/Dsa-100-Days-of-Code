@@ -267,4 +267,4 @@
 
 * # Day 61
   * Binary Number With Alternating Bits (Leetcode 693)
-  * FirstUniqueCharacterInAString_Leetcode_387
+  * First Unique Character In A String (Leetcode 387)
