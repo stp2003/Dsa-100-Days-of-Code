@@ -271,3 +271,4 @@
 
 * # Day 62
   * First Letter To Appear Twice (Leetcode 2351)
+  * CountPrefixesOfAGivenString_Leetcode_2255
