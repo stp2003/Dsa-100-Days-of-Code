@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 146```
+```# Code Count- 147```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -268,3 +268,6 @@
 * # Day 61
   * Binary Number With Alternating Bits (Leetcode 693)
   * First Unique Character In A String (Leetcode 387)
+
+* # Day 62
+  * First Letter To Appear Twice (Leetcode 2351)
