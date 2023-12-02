@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 147```
+```# Code Count- 148```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -271,3 +271,4 @@
 
 * # Day 62
   * First Letter To Appear Twice (Leetcode 2351)
+  * Count Prefixes Of A Given String (Leetcode 2255)
