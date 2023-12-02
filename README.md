@@ -275,4 +275,5 @@
 
 * # Day 63
   * Check If String Is A Prefix Of Array (Leetcode 1961)
+  * MaximumIceCreamBars_Leetcode_1833
 
