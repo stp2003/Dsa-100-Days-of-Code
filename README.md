@@ -274,5 +274,5 @@
   * Count Prefixes Of A Given String (Leetcode 2255)
 
 * # Day 63
-  * CheckIfStringIsAPrefixOfArray_Leetcode_1961
+  * Check If String Is A Prefix Of Array (Leetcode 1961)
 
