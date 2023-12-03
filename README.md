@@ -278,5 +278,5 @@
   * Maximum Ice Cream Bars (Leetcode 1833)
 
 * # Day 64
-  * CheckIfAWordOccursAsAPrefixOfAnyWordInASentence_Leetcode_1455
+  * Check If A Word Occurs As A Prefix Of Any Word In A Sentence (Leetcode 1455)
   
