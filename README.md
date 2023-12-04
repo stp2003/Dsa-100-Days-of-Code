@@ -282,4 +282,4 @@
   * Counting Words With A Given Prefix (Leetcode 2185)
 
 * # Day 65
-  * FindThePeaks_Leetcode_2951
+  * Find The Peaks (Leetcode 2951)
