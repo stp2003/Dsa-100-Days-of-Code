@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 152```
+```# Code Count- 153```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -280,4 +280,6 @@
 * # Day 64
   * Check If A Word Occurs As A Prefix Of Any Word In A Sentence (Leetcode 1455)
   * Counting Words With A Given Prefix (Leetcode 2185)
-  
+
+* # Day 65
+  * Find The Peaks (Leetcode 2951)
