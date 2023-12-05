@@ -286,5 +286,5 @@
   * To Lower Case (Leetcode 709)
 
 * # Day 66
-  * CapitalizeTheTitle_Leetcode_2129
+  * Capitalize The Title (Leetcode 2129)
 
