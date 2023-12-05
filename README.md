@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 153```
+```# Code Count- 154```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -283,3 +283,4 @@
 
 * # Day 65
   * Find The Peaks (Leetcode 2951)
+  * To Lower Case (Leetcode 709)
