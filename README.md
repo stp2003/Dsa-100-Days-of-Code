@@ -287,4 +287,5 @@
 
 * # Day 66
   * Capitalize The Title (Leetcode 2129)
+  * DetectCapital_Leetcode_520
 
