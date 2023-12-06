@@ -290,4 +290,4 @@
   * Detect Capital (Leetcode 520)
 
 * # Day 67
-  * CalculateMoneyInLeetcodeBank_Leetcode_1716
+  * Calculate Money In Leetcode Bank (Leetcode 1716)
