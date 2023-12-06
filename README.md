@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 155```
+```# Code Count- 156```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -287,4 +287,5 @@
 
 * # Day 66
   * Capitalize The Title (Leetcode 2129)
+  * Detect Capital (Leetcode 520)
 
