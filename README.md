@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 156```
+```# Code Count- 157```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -289,3 +289,5 @@
   * Capitalize The Title (Leetcode 2129)
   * Detect Capital (Leetcode 520)
 
+* # Day 67
+  * Calculate Money In Leetcode Bank (Leetcode 1716)
