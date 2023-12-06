@@ -291,4 +291,4 @@
 
 * # Day 67
   * Calculate Money In Leetcode Bank (Leetcode 1716)
-  * RemoveAllAdjacentDuplicatesInString_Leetcode_1047
+  * Remove All Adjacent Duplicates In String (Leetcode 1047)
