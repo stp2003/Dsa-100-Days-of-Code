@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 158```
+```# Code Count- 159```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -292,3 +292,7 @@
 * # Day 67
   * Calculate Money In Leetcode Bank (Leetcode 1716)
   * Remove All Adjacent Duplicates In String (Leetcode 1047)
+
+* Day 68
+  * Removing Stars From A String (Leetcode 2390)
+
