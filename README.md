@@ -295,4 +295,5 @@
 
 * Day 68
   * Removing Stars From A String (Leetcode 2390)
+  * MaximumElementAfterDecreasingAndRearranging_Leetcode_1846
 
