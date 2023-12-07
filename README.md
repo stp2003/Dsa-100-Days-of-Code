@@ -294,4 +294,5 @@
   * Remove All Adjacent Duplicates In String (Leetcode 1047)
 
 * Day 68
-  * RemovingStarsFromAString_Leetcode_2390
+  * Removing Stars From A String (Leetcode 2390)
+
