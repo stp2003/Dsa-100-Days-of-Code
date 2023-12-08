@@ -299,4 +299,4 @@
 
 * # Day 69
   * Backspace String Compare (Leetcode 844)
-  * CrawlerLogFolder_Leetcode_1598
+  * Crawler Log Folder (Leetcode 1598)
