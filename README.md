@@ -298,3 +298,4 @@
   * Maximum Element After Decreasing And Rearranging (Leetcode 1846)
 
 * # Day 69
+  * BackspaceStringCompare_Leetcode_844
