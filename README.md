@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 159```
+```# Code Count- 160```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -295,4 +295,5 @@
 
 * Day 68
   * Removing Stars From A String (Leetcode 2390)
+  * Maximum Element After Decreasing And Rearranging (Leetcode 1846)
 
