@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 161```
+```# Code Count- 162```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -299,3 +299,4 @@
 
 * # Day 69
   * Backspace String Compare (Leetcode 844)
+  * Crawler Log Folder (Leetcode 1598)
