@@ -302,4 +302,4 @@
   * Crawler Log Folder (Leetcode 1598)
 
 * # Day 70
-  * KItemsWithTheMaximumSum_Leetcode_2600
+  * K Items With The Maximum Sum (Leetcode 2600)
