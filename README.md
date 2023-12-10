@@ -303,3 +303,5 @@
 
 * # Day 70
   * K Items With The Maximum Sum (Leetcode 2600)
+
+* # Day 71
