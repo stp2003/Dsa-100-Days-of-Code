@@ -305,4 +305,4 @@
   * K Items With The Maximum Sum (Leetcode 2600)
 
 * # Day 71
-  * TransposeMatrix_Leetcode_867
+  * Transpose Matrix (Leetcode 867)
