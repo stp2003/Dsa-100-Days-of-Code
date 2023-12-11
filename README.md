@@ -308,4 +308,4 @@
   * Transpose Matrix (Leetcode 867)
 
 * # Day 72
-  * ElementAppearingMoreThan25PercentInSortedArray_Leetcode_1287
+  * Element Appearing More Than 25 Percent In Sorted Array (Leetcode 1287)
