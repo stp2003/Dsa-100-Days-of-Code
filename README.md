@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 163```
+```# Code Count- 164```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -303,3 +303,6 @@
 
 * # Day 70
   * K Items With The Maximum Sum (Leetcode 2600)
+
+* # Day 71
+  * Transpose Matrix (Leetcode 867)
