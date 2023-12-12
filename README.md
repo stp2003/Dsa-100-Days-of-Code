@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 164```
+```# Code Count- 165```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -306,3 +306,6 @@
 
 * # Day 71
   * Transpose Matrix (Leetcode 867)
+
+* # Day 72
+  * Element Appearing More Than 25 Percent In Sorted Array (Leetcode 1287)
