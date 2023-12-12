@@ -309,3 +309,5 @@
 
 * # Day 72
   * Element Appearing More Than 25 Percent In Sorted Array (Leetcode 1287)
+
+* # Day 73
