@@ -313,4 +313,5 @@
 * # Day 73
   * Baseball Game (Leetcode 682)
  
-* # Day 74  
+* # Day 74
+  * SpecialPositionsInABinaryMatrix_Leetcode_1582
