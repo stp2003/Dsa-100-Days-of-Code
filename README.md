@@ -314,4 +314,4 @@
   * Baseball Game (Leetcode 682)
  
 * # Day 74
-  * SpecialPositionsInABinaryMatrix_Leetcode_1582
+  * Special Positions In A Binary Matrix (Leetcode 1582)
