@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 165```
+```# Code Count- 166```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -309,3 +309,8 @@
 
 * # Day 72
   * Element Appearing More Than 25 Percent In Sorted Array (Leetcode 1287)
+
+* # Day 73
+  * Baseball Game (Leetcode 682)
+ 
+  
