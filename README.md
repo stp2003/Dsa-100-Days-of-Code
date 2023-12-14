@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 166```
+```# Code Count- 167```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -313,4 +313,5 @@
 * # Day 73
   * Baseball Game (Leetcode 682)
  
-  
+* # Day 74
+  * Special Positions In A Binary Matrix (Leetcode 1582)
