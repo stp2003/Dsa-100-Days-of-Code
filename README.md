@@ -317,4 +317,4 @@
   * Special Positions In A Binary Matrix (Leetcode 1582)
     
 * # Day 75
-  * DifferenceBetweenOnesAndZerosInRowAndColumn_Leetcode_2482
+  * Difference Between Ones And Zeros In Row And Column (Leetcode 2482)
