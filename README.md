@@ -321,7 +321,7 @@
 
 * # Day 76
   * Destination City (Leetcode 1436)
-  * TeemoAttacking_Leetcode_495
+  * Teemo Attacking (Leetcode 495)
 
 
 
