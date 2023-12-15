@@ -320,7 +320,7 @@
   * Difference Between Ones And Zeros In Row And Column (Leetcode 2482)
 
 * # Day 76
-  * DestinationCity_Leetcode_1436
+  * Destination City (Leetcode 1436)
 
 
 
