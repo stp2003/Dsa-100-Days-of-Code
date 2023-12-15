@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 167```
+```# Code Count- 168```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -315,3 +315,6 @@
  
 * # Day 74
   * Special Positions In A Binary Matrix (Leetcode 1582)
+    
+* # Day 75
+  * Difference Between Ones And Zeros In Row And Column (Leetcode 2482)
