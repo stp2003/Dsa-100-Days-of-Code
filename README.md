@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 169```
+```# Code Count- 170```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -321,6 +321,7 @@
 
 * # Day 76
   * Destination City (Leetcode 1436)
+  * Teemo Attacking (Leetcode 495)
 
 
 
