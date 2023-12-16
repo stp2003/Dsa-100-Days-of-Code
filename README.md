@@ -324,7 +324,7 @@
   * Teemo Attacking (Leetcode 495)
 
 * # Day 77
-  * RemoveDuplicatesFromSortedArrayII_Leetcode_80
+  * Remove Duplicates From Sorted Array II (Leetcode 80)
 
 
 
