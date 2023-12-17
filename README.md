@@ -329,6 +329,7 @@
 
 * # Day 78
   * Basic Calculator II (Leetcode 227)
+  * TotalDistanceTraveled_Leetcode_2739
 
 
 
