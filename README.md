@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 171```
+```# Code Count- 172```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -325,6 +325,7 @@
 
 * # Day 77
   * Remove Duplicates From Sorted Array II (Leetcode 80)
+  * Can Place Flowers (Leetcode 605)
 
 
 
