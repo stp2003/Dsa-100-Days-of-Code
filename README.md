@@ -332,6 +332,6 @@
   * Total Distance Traveled (Leetcode 2739)
 
 * # Day 79
-  * MaximumProductDifferenceBetweenTwoPairs_Leetcode_1913
+  * Maximum Product Difference Between Two Pairs (Leetcode 1913)
 
 
