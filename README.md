@@ -333,6 +333,6 @@
 
 * # Day 79
   * Maximum Product Difference Between Two Pairs (Leetcode 1913)
-  * MinimumConsecutiveCardsToPickUp_Leetcode_2260
+  * Minimum Consecutive Cards To Pick Up (Leetcode 2260)
 
 
