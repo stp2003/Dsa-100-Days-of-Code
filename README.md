@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 173```
+```# Code Count- 174```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -329,6 +329,7 @@
 
 * # Day 78
   * Basic Calculator II (Leetcode 227)
+  * Total Distance Traveled (Leetcode 2739)
 
 
 
