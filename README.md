@@ -336,4 +336,4 @@
   * Minimum Consecutive Cards To Pick Up (Leetcode 2260)
 
 * # Day 80
-  * SummaryRanges_Leetcode_228
+  * Summary Ranges (Leetcode 228)
