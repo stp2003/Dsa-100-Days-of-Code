@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 175```
+```# Code Count- 176```
 
 * # Day 1
   * Peak Element (Leetcode 162)
@@ -333,5 +333,6 @@
 
 * # Day 79
   * Maximum Product Difference Between Two Pairs (Leetcode 1913)
+  * Minimum Consecutive Cards To Pick Up (Leetcode 2260)
 
 
