@@ -339,4 +339,5 @@
   * Summary Ranges (Leetcode 228)
 
 * # Day 81
+  * Buy Two Chocolates (Leetcode 2706)
 
