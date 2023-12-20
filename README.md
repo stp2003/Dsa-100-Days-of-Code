@@ -1,7 +1,7 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 176```
+```# Code Count- 177```
 
-* # Day 1
+* # Day 1   
   * Peak Element (Leetcode 162)
   * Excel Sheet Column Number (Leetcode 171)
   * Reverse Words In String (Leetcode 557)
@@ -335,4 +335,5 @@
   * Maximum Product Difference Between Two Pairs (Leetcode 1913)
   * Minimum Consecutive Cards To Pick Up (Leetcode 2260)
 
-
+* # Day 80
+  * Summary Ranges (Leetcode 228)
