@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 177```
+```# Code Count- 178```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -337,3 +337,7 @@
 
 * # Day 80
   * Summary Ranges (Leetcode 228)
+
+* # Day 81
+  * Buy Two Chocolates (Leetcode 2706)
+
