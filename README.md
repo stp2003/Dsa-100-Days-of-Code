@@ -340,4 +340,5 @@
 
 * # Day 81
   * Buy Two Chocolates (Leetcode 2706)
+  * MaximumAscendingSubarraySum_Leetcode_1800
 
