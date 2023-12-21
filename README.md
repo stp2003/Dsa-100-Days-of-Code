@@ -343,3 +343,5 @@
   * Maximum Ascending Subarray Sum (Leetcode 1800)
 
 * # Day 82
+  * FirstMissingPositive_Leetcode_41
+
