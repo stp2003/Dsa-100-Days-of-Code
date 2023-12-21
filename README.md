@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 179```
+```# Code Count- 180```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -341,4 +341,7 @@
 * # Day 81
   * Buy Two Chocolates (Leetcode 2706)
   * Maximum Ascending Subarray Sum (Leetcode 1800)
+
+* # Day 82
+  * First Missing Positive (Leetcode 41)
 
