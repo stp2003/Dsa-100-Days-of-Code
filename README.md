@@ -348,5 +348,6 @@
 
 * # Day 83
   * Remove Adjacent Almost Equal Characters (Leetcode 2957)
+  * MinimumChangesToMakeAlternatingBinaryString_Leetcode_1758
 
 
