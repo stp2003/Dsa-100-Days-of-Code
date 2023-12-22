@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 181```
+```# Code Count- 182```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -345,4 +345,8 @@
 * # Day 82
   * First Missing Positive (Leetcode 41)
   * Find All Numbers Disappeared In An Array (Leetcode 448)
+
+* # Day 83
+  * Remove Adjacent Almost Equal Characters (Leetcode 2957)
+
 
