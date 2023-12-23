@@ -352,4 +352,4 @@
 
 * # Day 84
   * Minimum Number Of Food Buckets To Feed The Hamsters (Leetcode 2086)
-  * MaximumScoreAfterSplittingAString_Leetcode_1422
+  * Maximum Score After Splitting A String (Leetcode 1422)
