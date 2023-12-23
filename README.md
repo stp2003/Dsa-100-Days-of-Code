@@ -351,4 +351,4 @@
   * Minimum Changes To Make Alternating Binary String (Leetcode 1758)
 
 * # Day 84
-  * MinimumNumberOfFoodBucketsToFeedTheHamsters_Leetcode_2086
+  * Minimum Number Of Food Buckets To Feed The Hamsters (Leetcode 2086)
