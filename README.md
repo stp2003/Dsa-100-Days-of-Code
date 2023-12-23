@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 182```
+```# Code Count- 183```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -348,5 +348,6 @@
 
 * # Day 83
   * Remove Adjacent Almost Equal Characters (Leetcode 2957)
+  * Minimum Changes To Make Alternating Binary String (Leetcode 1758)
 
 
