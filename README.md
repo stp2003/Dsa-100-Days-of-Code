@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 183```
+```# Code Count- 184```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -350,4 +350,5 @@
   * Remove Adjacent Almost Equal Characters (Leetcode 2957)
   * Minimum Changes To Make Alternating Binary String (Leetcode 1758)
 
-
+* # Day 84
+  * Minimum Number Of Food Buckets To Feed The Hamsters (Leetcode 2086)
