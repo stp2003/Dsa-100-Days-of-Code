@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 185```
+```# Code Count- 186```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -353,3 +353,6 @@
 * # Day 84
   * Minimum Number Of Food Buckets To Feed The Hamsters (Leetcode 2086)
   * Maximum Score After Splitting A String (Leetcode 1422)
+
+* # Day 85
+  * Strong Password Checker II (Leetcode 2299)
