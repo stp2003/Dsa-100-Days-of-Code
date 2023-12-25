@@ -359,5 +359,5 @@
   * Validate IP Address (Leetcode 468)
 
 * # Day 86
-* ShuffleAnArray_Leetcode_384
+* Shuffle An Array (Leetcode 384)
 
