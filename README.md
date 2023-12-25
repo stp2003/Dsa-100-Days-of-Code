@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 187```
+```# Code Count- 188```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -357,3 +357,7 @@
 * # Day 85
   * Strong Password Checker II (Leetcode 2299)
   * Validate IP Address (Leetcode 468)
+
+* # Day 86
+* Shuffle An Array (Leetcode 384)
+
