@@ -360,5 +360,5 @@
 
 * # Day 86
 * Shuffle An Array (Leetcode 384)
-* ComplexNumberMultiplication_Leetcode_537
+* Complex Number Multiplication (Leetcode 537)
 
