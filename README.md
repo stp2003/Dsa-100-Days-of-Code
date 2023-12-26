@@ -363,4 +363,4 @@
 * Complex Number Multiplication (Leetcode 537)
 
 * # Day 87
-  * CountBinarySubstrings_Leetcode_696
+  * Count Binary Substrings (Leetcode 696)
