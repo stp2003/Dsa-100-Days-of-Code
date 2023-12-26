@@ -18,9 +18,7 @@ public class CountBinarySubstrings_Leetcode_696 {
                 count = 1;
             }
         }
-
         ans += Math.min(flag, count);
-
         return ans;
     }
 
