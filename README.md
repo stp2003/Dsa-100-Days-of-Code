@@ -364,3 +364,5 @@
 
 * # Day 87
   * Count Binary Substrings (Leetcode 696)
+
+* # Day 88
