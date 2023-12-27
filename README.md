@@ -362,3 +362,5 @@
 * Shuffle An Array (Leetcode 384)
 * Complex Number Multiplication (Leetcode 537)
 
+* # Day 87
+  * Count Binary Substrings (Leetcode 696)
