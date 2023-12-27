@@ -366,3 +366,4 @@
   * Count Binary Substrings (Leetcode 696)
 
 * # Day 88
+  * MinimumTimeToMakeRopeColorful_Leetcode_1587
