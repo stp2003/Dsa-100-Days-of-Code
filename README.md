@@ -367,3 +367,5 @@
 
 * # Day 88
   * Minimum Time To Make Rope Colorful (Leetcode 1587)
+
+* # Day 89
