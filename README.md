@@ -370,3 +370,4 @@
 
 * # Day 89
   * Merge Two Sorted Lists (Leetcode 21)
+  * PrimeNumberOfSetBitsInBinaryRepresentation_Leetcode_762
