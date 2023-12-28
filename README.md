@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 191```
+```# Code Count- 192```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -367,3 +367,6 @@
 
 * # Day 88
   * Minimum Time To Make Rope Colorful (Leetcode 1587)
+
+* # Day 89
+  * Merge Two Sorted Lists (Leetcode 21)
