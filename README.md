@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 190```
+```# Code Count- 191```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -364,3 +364,6 @@
 
 * # Day 87
   * Count Binary Substrings (Leetcode 696)
+
+* # Day 88
+  * Minimum Time To Make Rope Colorful (Leetcode 1587)
