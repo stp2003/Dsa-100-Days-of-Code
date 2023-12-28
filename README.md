@@ -369,4 +369,4 @@
   * Minimum Time To Make Rope Colorful (Leetcode 1587)
 
 * # Day 89
-  * MergeTwoSortedLists_Leetcode_21
+  * Merge Two Sorted Lists (Leetcode 21)
