@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 193```
+```# Code Count- 194```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -371,3 +371,7 @@
 * # Day 89
   * Merge Two Sorted Lists (Leetcode 21)
   * Prime Number Of Set Bits In Binary Representation (Leetcode 762)
+
+* # Day 90
+  * Append K Integers With Minimal Sum (Leetcode 2195)
+
