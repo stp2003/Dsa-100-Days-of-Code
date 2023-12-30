@@ -376,4 +376,4 @@
   * Append K Integers With Minimal Sum (Leetcode 2195)
 
 * # Day 91
-  * RedistributeCharactersToMakeAllStringsEqual_Leetcode_1897
+  * Redistribute Characters To Make All Strings Equal (Leetcode 1897)
