@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 196```
+```# Code Count- 197```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -380,3 +380,4 @@
 
 * # Day 92
   * Number Of Steps To Reduce A Number To Zero (Leetcode 1342)
+  * Count Operations To Obtain Zero (Leetcode 2169)
