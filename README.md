@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 194```
+```# Code Count- 195```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -375,3 +375,5 @@
 * # Day 90
   * Append K Integers With Minimal Sum (Leetcode 2195)
 
+* # Day 91
+  * Redistribute Characters To Make All Strings Equal (Leetcode 1897)
