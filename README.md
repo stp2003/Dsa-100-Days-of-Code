@@ -380,4 +380,4 @@
 
 * # Day 92
   * Number Of Steps To Reduce A Number To Zero (Leetcode 1342)
-  * CountOperationsToObtainZero_Leetcode_2169
+  * Count Operations To Obtain Zero (Leetcode 2169)
