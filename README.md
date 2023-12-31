@@ -379,3 +379,4 @@
   * Redistribute Characters To Make All Strings Equal (Leetcode 1897)
 
 * # Day 92
+  * NumberOfStepsToReduceANumberToZero_Leetcode_1342
