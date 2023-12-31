@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 195```
+```# Code Count- 196```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -377,3 +377,6 @@
 
 * # Day 91
   * Redistribute Characters To Make All Strings Equal (Leetcode 1897)
+
+* # Day 92
+  * Number Of Steps To Reduce A Number To Zero (Leetcode 1342)
