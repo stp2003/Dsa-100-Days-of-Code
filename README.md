@@ -384,3 +384,4 @@
   * Largest Substring Between Two Equal Characters (Leetcode 1624)
 
 * # Day 93
+  * Find Sub Arrays With Equal Sum (Leetcode 2395)
