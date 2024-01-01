@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 197```
+```# Code Count- 198```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -381,3 +381,4 @@
 * # Day 92
   * Number Of Steps To Reduce A Number To Zero (Leetcode 1342)
   * Count Operations To Obtain Zero (Leetcode 2169)
+  * Largest Substring Between Two Equal Characters (Leetcode 1624)
