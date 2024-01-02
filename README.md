@@ -390,4 +390,4 @@
 
 * # Day 94
   * Convert An Array Into A 2D Array With Conditions (Leetcode 2610)
-  * MaximumNumberOfWordsYouCanType_Leetcode_1935
+  * Maximum Number Of Words You Can Type (Leetcode 1935)
