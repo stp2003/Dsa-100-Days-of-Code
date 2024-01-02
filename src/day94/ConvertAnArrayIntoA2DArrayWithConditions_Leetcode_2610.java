@@ -28,4 +28,8 @@ public class ConvertAnArrayIntoA2DArrayWithConditions_Leetcode_2610 {
         }
         return ans;
     }
+
+    public static void main(String[] args) {
+        System.out.println(findMatrix(new int[]{1, 2, 5, 63, 9, 7, 8}));
+    }
 }
