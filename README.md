@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 201```
+```# Code Count- 202```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -387,3 +387,6 @@
   * Find Sub Arrays With Equal Sum (Leetcode 2395)
   * Find Maximum Number Of String Pairs (Leetcode 2744)
   * Merge Strings Alternately (Leetcode 1768)
+
+* # Day 94
+  * Convert An Array Into A 2D Array With Conditions (Leetcode 2610)
