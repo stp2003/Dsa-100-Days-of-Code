@@ -389,4 +389,4 @@
   * Merge Strings Alternately (Leetcode 1768)
 
 * # Day 94
-  * ConvertAnArrayIntoA2DArrayWithConditions_Leetcode_2610
+  * Convert An Array Into A 2D Array With Conditions (Leetcode 2610)
