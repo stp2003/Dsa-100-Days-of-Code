@@ -14,10 +14,8 @@ public class NumberOfLaserBeamsInABank_Leetcode_2125 {
                 flag = currentCount;
             }
         }
-
         return ans;
     }
-
 
     public static int countOnes(String s) {
         int count = 0;
