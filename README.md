@@ -391,3 +391,5 @@
 * # Day 94
   * Convert An Array Into A 2D Array With Conditions (Leetcode 2610)
   * Maximum Number Of Words You Can Type (Leetcode 1935)
+
+* # Day 95
