@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 202```
+```# Code Count- 203```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -390,3 +390,4 @@
 
 * # Day 94
   * Convert An Array Into A 2D Array With Conditions (Leetcode 2610)
+  * Maximum Number Of Words You Can Type (Leetcode 1935)
