@@ -393,3 +393,4 @@
   * Maximum Number Of Words You Can Type (Leetcode 1935)
 
 * # Day 95
+  * NumberOfLaserBeamsInABank_Leetcode_2125
