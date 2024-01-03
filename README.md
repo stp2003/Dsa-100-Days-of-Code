@@ -394,3 +394,4 @@
 
 * # Day 95
   * Number Of Laser Beams In A Bank (Leetcode 2125)
+  * SetMatrixZeroes_Leetcode_73
