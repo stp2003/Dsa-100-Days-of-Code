@@ -397,4 +397,4 @@
   * Set Matrix Zeroes (Leetcode 73)
  
 * # Day 96
-  * MinimumNumberOfOperationsToMakeArrayEmpty_Leetcode_2870
+  * Minimum Number Of Operations To Make Array Empty (Leetcode 2870)
