@@ -398,3 +398,4 @@
  
 * # Day 96
   * Minimum Number Of Operations To Make Array Empty (Leetcode 2870)
+  * Minimum Cuts To Divide A Circle (Leetcode 2481)
