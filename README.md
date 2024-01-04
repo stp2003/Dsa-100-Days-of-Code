@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 205```
+```# Code Count- 206```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -395,3 +395,6 @@
 * # Day 95
   * Number Of Laser Beams In A Bank (Leetcode 2125)
   * Set Matrix Zeroes (Leetcode 73)
+ 
+* # Day 96
+  * Minimum Number Of Operations To Make Array Empty (Leetcode 2870)
