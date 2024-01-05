@@ -401,4 +401,6 @@
   * Minimum Cuts To Divide A Circle (Leetcode 2481)
 
 * # Day 97
-  * LongestIncreasingSubsequence_Leetcode_300
+  * Longest Increasing Subsequence (Leetcode 300)
+
+
