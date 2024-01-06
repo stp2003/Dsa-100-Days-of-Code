@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 207```
+```# Code Count- 208```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -399,3 +399,8 @@
 * # Day 96
   * Minimum Number Of Operations To Make Array Empty (Leetcode 2870)
   * Minimum Cuts To Divide A Circle (Leetcode 2481)
+
+* # Day 97
+  * Longest Increasing Subsequence (Leetcode 300)
+
+
