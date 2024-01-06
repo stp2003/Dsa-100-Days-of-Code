@@ -404,5 +404,5 @@
   * Longest Increasing Subsequence (Leetcode 300)
 
 * # Day 98
-  * MaximumProfitInJobScheduling_Leetcode_1235
+  * Maximum Profit In Job Scheduling (Leetcode 1235)
 
