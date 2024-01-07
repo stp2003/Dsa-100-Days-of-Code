@@ -408,4 +408,4 @@
   * Three Sum (Leetcode 15)
 
 * # Day 99
-  * ArithmeticSlicesIISubsequence_Leetcode_446
+  * Arithmetic Slices II Subsequence (Leetcode 446)
