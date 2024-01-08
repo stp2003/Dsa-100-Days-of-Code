@@ -410,3 +410,5 @@
 * # Day 99
   * Arithmetic Slices II Subsequence (Leetcode 446)
   * Arithmetic Slices (Leetcode 413)
+
+* # Day 100
