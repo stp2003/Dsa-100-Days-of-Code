@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 211```
+```# Code Count- 212```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -409,3 +409,4 @@
 
 * # Day 99
   * Arithmetic Slices II Subsequence (Leetcode 446)
+  * Arithmetic Slices (Leetcode 413)
