@@ -416,5 +416,6 @@
   * Count Number Of Ways To Place Houses (Leetcode 2320)
 
 * # Day 101
+  * Leaf Similar Trees (Leetcode 872)
 
 
