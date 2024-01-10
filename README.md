@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 214```
+```# Code Count- 215```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -414,3 +414,8 @@
 * # Day 100
   * Range Sum Of BST (Leetcode 938)
   * Count Number Of Ways To Place Houses (Leetcode 2320)
+
+* # Day 101
+  * Leaf Similar Trees (Leetcode 872)
+
+
