@@ -419,5 +419,5 @@
   * Leaf Similar Trees (Leetcode 872)
 
 * # Day 102
-  * AmountOfTimeForBinaryTreeToBeInfected_Leetcode_2385
+  * Amount Of Time For Binary Tree To Be Infected (Leetcode 2385)
 
