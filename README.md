@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 215```
+```# Code Count- 216```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -418,4 +418,6 @@
 * # Day 101
   * Leaf Similar Trees (Leetcode 872)
 
+* # Day 102
+  * Amount Of Time For Binary Tree To Be Infected (Leetcode 2385)
 
