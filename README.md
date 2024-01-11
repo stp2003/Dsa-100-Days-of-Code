@@ -422,4 +422,4 @@
   * Amount Of Time For Binary Tree To Be Infected (Leetcode 2385)
 
 * # Day 103
-  * MaximumDifferenceBetweenNodeAndAncestor_Leetcode_1026
+  * Maximum Difference Between Node And Ancestor (Leetcode 1026)
