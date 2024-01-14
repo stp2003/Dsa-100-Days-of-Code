@@ -431,4 +431,4 @@
   * Minimum Number Of Steps To Make Two Strings Anagram (Leetcode 1347)
 
 * # Day 106
-  * DetermineIfTwoStringsAreClose_Leetcode_1657
+  * Determine If Two Strings Are Close (Leetcode 1657)
