@@ -429,3 +429,5 @@
 
 * # Day 105
   * Minimum Number Of Steps To Make Two Strings Anagram (Leetcode 1347)
+
+* # Day 106
