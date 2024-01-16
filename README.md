@@ -1,5 +1,5 @@
 # Dsa-100-Days-of-Code 
-```# Code Count- 220```
+```# Code Count- 221```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -432,3 +432,6 @@
 
 * # Day 106
   * Determine If Two Strings Are Close (Leetcode 1657)
+
+* # Day 107
+  * Find Players With Zero Or One Losses (Leetcode 2225)
