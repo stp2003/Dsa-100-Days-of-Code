@@ -444,4 +444,4 @@
   * Unique Number Of Occurrences (Leetcode 1207)
 
 * # Day 110
-  * ClimbingStairs_Leetcode_70
+  * Climbing Stairs (Leetcode 70)
