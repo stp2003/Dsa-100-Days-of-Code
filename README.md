@@ -447,5 +447,5 @@
   * Climbing Stairs (Leetcode 70)
 
 * # Day 111
-  * MinimumFallingPathSum_Leetcode_931
+  * Minimum Falling Path Sum (Leetcode 931)
 
