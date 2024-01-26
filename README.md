@@ -451,3 +451,9 @@
 
 * # Day 112
   * Sum Of Subarray Minimums (Leetcode 907)
+
+* # Day 113
+  * House Robber (Leetcode 198)
+
+* # Day 114
+  * Set Mismatch (Leetcode 645)
