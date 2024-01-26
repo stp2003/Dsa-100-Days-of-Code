@@ -466,3 +466,6 @@
 
 * # Day 117
   * Longest Common Subsequence (Leetcode 1143)
+
+* # Day 118
+  * Out Of Boundary Paths (Leetcode 576)
