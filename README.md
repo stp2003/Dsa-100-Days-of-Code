@@ -463,3 +463,6 @@
 
 * # Day 116
   * Pseudo Palindromic Paths In A Binary Tree (Leetcode 1457)
+
+* # Day 117
+  * Longest Common Subsequence (Leetcode 1143)
