@@ -445,3 +445,7 @@
 
 * # Day 110
   * Climbing Stairs (Leetcode 70)
+
+* # Day 111
+  * Minimum Falling Path Sum (Leetcode 931)
+
