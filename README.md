@@ -471,4 +471,4 @@
   * Out Of Boundary Paths (Leetcode 576)
 
 * # Day 119
-  * KInversePairsArray_Leetcode_629
+  * K Inverse Pairs Array (Leetcode 629)
