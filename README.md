@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 231```
+```# Code Count- 232```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
