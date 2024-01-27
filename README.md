@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 230```
+```# Code Count- 231```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -466,3 +466,6 @@
 
 * # Day 117
   * Longest Common Subsequence (Leetcode 1143)
+
+* # Day 118
+  * Out Of Boundary Paths (Leetcode 576)
