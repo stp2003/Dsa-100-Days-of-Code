@@ -472,3 +472,5 @@
 
 * # Day 119
   * K Inverse Pairs Array (Leetcode 629)
+    
+* # Day 120
