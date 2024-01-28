@@ -474,4 +474,4 @@
   * K Inverse Pairs Array (Leetcode 629)
     
 * # Day 120
-  * NumberOfSubmatricesThatSumToTarget_Leetcode_1074
+  * Number Of Submatrices That Sum To Target (Leetcode 1074)
