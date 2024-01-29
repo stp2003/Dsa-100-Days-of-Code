@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 232```
+```# Code Count- 233```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -472,3 +472,6 @@
 
 * # Day 119
   * K Inverse Pairs Array (Leetcode 629)
+    
+* # Day 120
+  * Number Of Submatrices That Sum To Target (Leetcode 1074)
