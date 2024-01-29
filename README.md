@@ -477,4 +477,4 @@
   * Number Of Submatrices That Sum To Target (Leetcode 1074)
 
 * # Day 121
-  * ImplementQueueUsingStacks_Leetcode_232
+  * Implement Queue Using Stacks (Leetcode 232)
