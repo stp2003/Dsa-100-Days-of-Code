@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 233```
+```# Code Count- 234```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -475,3 +475,6 @@
     
 * # Day 120
   * Number Of Submatrices That Sum To Target (Leetcode 1074)
+
+* # Day 121
+  * Implement Queue Using Stacks (Leetcode 232)
