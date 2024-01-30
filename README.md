@@ -478,3 +478,6 @@
 
 * # Day 121
   * Implement Queue Using Stacks (Leetcode 232)
+
+* # Day 122
+
