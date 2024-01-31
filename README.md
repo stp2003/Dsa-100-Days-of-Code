@@ -483,3 +483,4 @@
   * Evaluate Reverse Polish Notation (Leetcode 150)
 
 * # Day 123
+  * Daily Temperatures (Leetcode 739)
