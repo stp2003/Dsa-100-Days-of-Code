@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 234```
+```# Code Count- 235```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -478,3 +478,7 @@
 
 * # Day 121
   * Implement Queue Using Stacks (Leetcode 232)
+
+* # Day 122
+  * Evaluate Reverse Polish Notation (Leetcode 150)
+
