@@ -486,4 +486,4 @@
   * Daily Temperatures (Leetcode 739)
 
 * # Day 124
-  * DivideArrayIntoArraysWithMaxDifference_Leetcode_2966
+  * Divide Array Into Arrays With Max Difference (Leetcode 2966)
