@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 235```
+```# Code Count- 236```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -482,3 +482,5 @@
 * # Day 122
   * Evaluate Reverse Polish Notation (Leetcode 150)
 
+* # Day 123
+  * Daily Temperatures (Leetcode 739)
