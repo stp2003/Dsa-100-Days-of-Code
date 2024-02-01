@@ -484,3 +484,6 @@
 
 * # Day 123
   * Daily Temperatures (Leetcode 739)
+
+* # Day 124
+  * 
