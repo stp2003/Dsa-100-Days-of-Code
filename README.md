@@ -489,4 +489,4 @@
   * Divide Array Into Arrays With Max Difference (Leetcode 2966)
 
 * # Day 125
-  * Sequentia lDigits (Leetcode 1291)
+  * Sequential Digits (Leetcode 1291)
