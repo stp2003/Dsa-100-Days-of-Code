@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 236```
+```# Code Count- 237```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -484,3 +484,6 @@
 
 * # Day 123
   * Daily Temperatures (Leetcode 739)
+
+* # Day 124
+  * Divide Array Into Arrays With Max Difference (Leetcode 2966)
