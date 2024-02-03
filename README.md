@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 237```
+```# Code Count- 238```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -487,3 +487,6 @@
 
 * # Day 124
   * Divide Array Into Arrays With Max Difference (Leetcode 2966)
+
+* # Day 125
+  * Sequential Digits (Leetcode 1291)
