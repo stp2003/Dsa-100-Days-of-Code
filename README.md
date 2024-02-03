@@ -490,3 +490,5 @@
 
 * # Day 125
   * Sequential Digits (Leetcode 1291)
+
+* # Day 126
