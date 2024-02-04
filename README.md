@@ -495,4 +495,4 @@
   * Partition Array For Maximum Sum (Leetcode 1043)
 
 * # Day 127
-  * MinimumWindowSubstring_Leetcode_76
+  * Minimum Window Substring (Leetcode 76)
