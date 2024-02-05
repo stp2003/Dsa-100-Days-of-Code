@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 239```
+```# Code Count- 240```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -493,3 +493,6 @@
 
 * # Day 126
   * Partition Array For Maximum Sum (Leetcode 1043)
+
+* # Day 127
+  * Minimum Window Substring (Leetcode 76)
