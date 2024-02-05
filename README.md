@@ -498,4 +498,4 @@
   * Minimum Window Substring (Leetcode 76)
 
 * # Day 128
-  * FirstUniqueCharacterInAString_Leetcode_387
+  * First Unique Character In A String (Leetcode 387)
