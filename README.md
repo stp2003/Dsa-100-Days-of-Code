@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 240```
+```# Code Count- 241```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -496,3 +496,6 @@
 
 * # Day 127
   * Minimum Window Substring (Leetcode 76)
+
+* # Day 128
+  * First Unique Character In A String (Leetcode 387)
