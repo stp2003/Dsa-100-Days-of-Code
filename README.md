@@ -501,4 +501,4 @@
   * First Unique Character In A String (Leetcode 387)
 
 * # Day 129
-  * GroupAnagrams_Leetcode_49
+  * Group Anagrams (Leetcode 49)
