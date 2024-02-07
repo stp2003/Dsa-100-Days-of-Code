@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 241```
+```# Code Count- 242```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -499,3 +499,6 @@
 
 * # Day 128
   * First Unique Character In A String (Leetcode 387)
+
+* # Day 129
+  * Group Anagrams (Leetcode 49)
