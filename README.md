@@ -504,5 +504,5 @@
   * Group Anagrams (Leetcode 49)
 
 * # Day 130
-  * SortCharactersByFrequency_Leetcode_451
+  * Sort Characters By Frequency (Leetcode 451)
 
