@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 243```
+```# Code Count- 244```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -506,3 +506,5 @@
 * # Day 130
   * Sort Characters By Frequency (Leetcode 451)
 
+* # Day 131
+  * Perfect Squares (Leetcode 279)
