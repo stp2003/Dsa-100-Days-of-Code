@@ -510,4 +510,4 @@
   * Perfect Squares (Leetcode 279)
 
 * # Day 132
-  * LargestDivisibleSubset_Leetcode_368
+  * Largest Divisible Subset (Leetcode 368)
