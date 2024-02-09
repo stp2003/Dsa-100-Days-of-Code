@@ -508,3 +508,5 @@
 
 * # Day 131
   * Perfect Squares (Leetcode 279)
+
+* # Day 132
