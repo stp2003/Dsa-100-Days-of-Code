@@ -513,4 +513,4 @@
   * Largest Divisible Subset (Leetcode 368)
 
 * # Day 133
-  * PalindromicSubstrings_Leetcode_647
+  * Palindromic Substrings (Leetcode 647)
