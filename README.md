@@ -517,3 +517,6 @@
 
 * # Day 134
   * Cherry Pickup II (Leetcode 1463)
+
+* # Day 135
+  * Majority Element (Leetcode 169)
