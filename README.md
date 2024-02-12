@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 246```
+```# Code Count- 247```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -514,3 +514,6 @@
 
 * # Day 133
   * Palindromic Substrings (Leetcode 647)
+
+* # Day 134
+  * Cherry Pickup II (Leetcode 1463)
