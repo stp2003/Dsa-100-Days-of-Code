@@ -522,4 +522,4 @@
   * Majority Element (Leetcode 169)
 
 * # Day 136
-  * FindFirstPalindromicStringInTheArray_Leetcode_2108
+  * Find First Palindromic String In The Array (Leetcode 2108)
