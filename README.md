@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 247```
+```# Code Count- 248```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -517,3 +517,6 @@
 
 * # Day 134
   * Cherry Pickup II (Leetcode 1463)
+
+* # Day 135
+  * Majority Element (Leetcode 169)
