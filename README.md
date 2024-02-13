@@ -522,3 +522,4 @@
   * Majority Element (Leetcode 169)
 
 * # Day 136
+  * FindFirstPalindromicStringInTheArray_Leetcode_2108
