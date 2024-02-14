@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 248```
+```# Code Count- 249```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -520,3 +520,6 @@
 
 * # Day 135
   * Majority Element (Leetcode 169)
+
+* # Day 136
+  * Find First Palindromic String In The Array (Leetcode 2108)
