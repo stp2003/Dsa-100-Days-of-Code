@@ -531,4 +531,4 @@
   * Find Polygon With The Largest Perimeter (Leetcode 2971)
 
 * # Day 139
-  * LeastNumberOfUniqueIntegersAfterKRemovals_Leetcode_1481
+  * Least Number Of Unique Integers After K Removals (Leetcode 1481)
