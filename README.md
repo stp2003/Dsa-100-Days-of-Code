@@ -534,4 +534,4 @@
   * Least Number Of Unique Integers After K Removals (Leetcode 1481)
 
 * # Day 140
-  * FurthestBuildingYouCanReach_Leetcode_1642
+  * Furthest Building You Can Reach (Leetcode 1642)
