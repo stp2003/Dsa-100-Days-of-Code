@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 251```
+```# Code Count- 252```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -529,3 +529,6 @@
 
 * # Day 138
   * Find Polygon With The Largest Perimeter (Leetcode 2971)
+
+* # Day 139
+  * Least Number Of Unique Integers After K Removals (Leetcode 1481)
