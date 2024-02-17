@@ -532,3 +532,5 @@
 
 * # Day 139
   * Least Number Of Unique Integers After K Removals (Leetcode 1481)
+
+* # Day 140
