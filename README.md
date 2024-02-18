@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 252```
+```# Code Count- 253```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -532,3 +532,6 @@
 
 * # Day 139
   * Least Number Of Unique Integers After K Removals (Leetcode 1481)
+
+* # Day 140
+  * Furthest Building You Can Reach (Leetcode 1642)
