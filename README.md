@@ -535,3 +535,5 @@
 
 * # Day 140
   * Furthest Building You Can Reach (Leetcode 1642)
+
+* # Day 141
