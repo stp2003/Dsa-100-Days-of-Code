@@ -540,4 +540,4 @@
   * Meeting Rooms III (Leetcode 2402)
 
 * # Day 142
-  * PowerOfTwo_Leetcode_231
+  * Power Of Two (Leetcode 231)
