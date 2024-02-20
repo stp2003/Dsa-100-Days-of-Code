@@ -543,3 +543,4 @@
   * Power Of Two (Leetcode 231)
 
 * # Day 143
+  * MissingNumber_Leetcode_268
