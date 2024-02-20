@@ -541,3 +541,5 @@
 
 * # Day 142
   * Power Of Two (Leetcode 231)
+
+* # Day 143
