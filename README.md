@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 254```
+```# Code Count- 255```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -538,3 +538,6 @@
 
 * # Day 141
   * Meeting Rooms III (Leetcode 2402)
+
+* # Day 142
+  * Power Of Two (Leetcode 231)
