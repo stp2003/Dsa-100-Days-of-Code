@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 255```
+```# Code Count- 256```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -541,3 +541,6 @@
 
 * # Day 142
   * Power Of Two (Leetcode 231)
+
+* # Day 143
+  * Missing Number (Leetcode 268)
