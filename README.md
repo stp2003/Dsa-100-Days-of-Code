@@ -544,3 +544,5 @@
 
 * # Day 143
   * Missing Number (Leetcode 268)
+
+* # Day 144
