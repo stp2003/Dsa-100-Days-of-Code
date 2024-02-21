@@ -546,4 +546,4 @@
   * Missing Number (Leetcode 268)
 
 * # Day 144
-  * BitwiseANDOfNumbersRange_Leetcode_201
+  * Bitwise AND Of Numbers Range (Leetcode 201)
