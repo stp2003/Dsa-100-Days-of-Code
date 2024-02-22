@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 256```
+```# Code Count- 257```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -544,3 +544,6 @@
 
 * # Day 143
   * Missing Number (Leetcode 268)
+
+* # Day 144
+  * Bitwise AND Of Numbers Range (Leetcode 201)
