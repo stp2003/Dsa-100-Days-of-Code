@@ -547,3 +547,5 @@
 
 * # Day 144
   * Bitwise AND Of Numbers Range (Leetcode 201)
+
+* # Day 145
