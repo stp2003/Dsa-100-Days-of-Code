@@ -550,3 +550,6 @@
 
 * # Day 145
   * Find The Town Judge (Leetcode 977)
+
+* # Day 146
+
