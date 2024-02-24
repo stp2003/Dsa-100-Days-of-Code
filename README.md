@@ -555,4 +555,4 @@
   * Cheapest Flights Within K Stops (Leetcode 787)
 
 * # Day 147
-  * FindAllPeopleWithSecret_Leetcode_2092
+  * Find All People With Secret (Leetcode 2092)
