@@ -558,3 +558,4 @@
   * Find All People With Secret (Leetcode 2092)
 
 * # Day 148
+  * Greatest Common Divisor Traversal (Leetcode 2709)
