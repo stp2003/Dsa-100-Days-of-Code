@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 259```
+```# Code Count- 260```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -554,3 +554,5 @@
 * # Day 146
   * Cheapest Flights Within K Stops (Leetcode 787)
 
+* # Day 147
+  * Find All People With Secret (Leetcode 2092)
