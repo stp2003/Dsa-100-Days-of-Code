@@ -1,6 +1,6 @@
 # Dsa-100-Days-of-Code  
 <!--- 16 - 222 --->
-```# Code Count- 260```
+```# Code Count- 261```
 
 * # Day 1   
   * Peak Element (Leetcode 162)
@@ -556,3 +556,6 @@
 
 * # Day 147
   * Find All People With Secret (Leetcode 2092)
+
+* # Day 148
+  * Greatest Common Divisor Traversal (Leetcode 2709)
