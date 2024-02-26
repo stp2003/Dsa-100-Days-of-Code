@@ -559,3 +559,5 @@
 
 * # Day 148
   * Greatest Common Divisor Traversal (Leetcode 2709)
+
+* # Day 149
